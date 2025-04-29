@@ -1,23 +1,28 @@
-## 📅 Day 6 – Tip Calculator 💰
+## 📅 Day 7 – Weather App 🌤️
 
 ### 🔗 Live Demo
-[Tip Calculator](https://whimsical-ganache-a6dd8e.netlify.app/)
+[Weather App](https://teal-gnome-f60fa4.netlify.app/)
 
 ### 📌 Description
-A simple and responsive tip calculator built with HTML, CSS, and JavaScript. It lets users quickly calculate the tip and total bill based on a given percentage.
+A weather application that displays current weather information based on the city entered by the user. Real-time data is fetched from an external API.
 
 ### ✅ Features
-- Input for bill amount and tip percentage
-- Real-time calculation on button click or Enter key
+- Search by city name
 - Displays:
-  - Bill amount
-  - Tip amount
-  - Total amount
-- Clean UI with gradient styling and animated result section
+  - Temperature
+  - Weather condition
+  - Humidity
+  - Wind speed
+- Responsive design
+
+### 🌐 API Used
+- [WeatherAPI.com](https://www.weatherapi.com/)  
+  (API key used: `83a03544ece14c2cb04174917252904`)
+
+### 🎥 Credit
+- Learned and implemented using guidance from a YouTube tutorial (credit to the respective creator)
 
 ### 🛠️ Technologies Used
 - HTML5
 - CSS3
-- JavaScript
-
----
+- JavaScript (fetch API)
